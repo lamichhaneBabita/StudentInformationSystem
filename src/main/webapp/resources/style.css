@@ -1,0 +1,19 @@
+label{
+	font-weight: bold;
+	font-family: serif;
+	background-color:cyan;
+	margin:10px;
+}
+input{
+	margin:10px;
+	
+}
+#f{
+width:500px;
+background-color:grey;
+margin-left: 310px;
+}
+.g{
+width: 100px;
+height:20px;
+}
